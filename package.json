@@ -2,9 +2,9 @@
     "name": "ambervs",
     "displayName": "AmberVS",
     "description": "Amber Material Design Theme",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "publisher": "nickyy00",
-    "icon": "images/amberLogo.png",
+    "icon": "images/logo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/mateuszklysz/ambervs-theme"

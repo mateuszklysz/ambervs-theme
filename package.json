@@ -1,9 +1,10 @@
 {
     "name": "ambervs",
     "displayName": "AmberVS",
-    "description": "Material based color theme with amber accent",
-    "version": "1.1.0",
+    "description": "Amber Material Design Theme",
+    "version": "1.1.2",
     "publisher": "nickyy00",
+    "icon": "images/amberLogo.png",
     "repository": {
         "type": "git",
         "url": "https://github.com/mateuszklysz/ambervs-theme"

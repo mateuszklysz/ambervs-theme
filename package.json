@@ -1,0 +1,26 @@
+{
+    "name": "ambervs",
+    "displayName": "AmberVS",
+    "description": "Material based color theme with amber accent",
+    "version": "1.0.0",
+    "publisher": "nickyy00",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mateuszklysz/ambervs-theme"
+    },
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "AmberVS Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/AmberVS Theme-color-theme.json"
+            }
+        ]
+    }
+}
